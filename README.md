@@ -15,7 +15,7 @@ I am Abhishek Yadav, a Software Development Engineer (SDE) and Full-Stack Develo
 
 ## Professional Background
 
-Pursuing a Bachelor of Technology, I have cultivated expertise in a variety of technologies, making me well-equipped to tackle the challenges of modern software development. I am also available for freelance opportunities, eager to collaborate on exciting projects that push the boundaries of what technology can achieve.
+Pursuing a Bachelor of Technology degree in Information Technology , I have cultivated expertise in a variety of technologies, making me well-equipped to tackle the challenges of modern software development. I am also available for freelance opportunities, eager to collaborate on exciting projects that push the boundaries of what technology can achieve.
 
 ## GitHub Repositories
 
