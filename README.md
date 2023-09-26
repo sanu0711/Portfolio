@@ -4,7 +4,7 @@ Welcome to my portfolio repository! This repository contains the source code for
 
 ## About Me
 
-I am Abhishek Yadav, a Software Development Engineer (SDE) and Full-Stack Developer with a deep passion for AI/ML & Data Science. Currently based in New York, USA, I am dedicated to leveraging technology to solve complex problems and create innovative solutions.
+I am Abhishek Yadav, a Software Development Engineer (SDE) and Full-Stack Developer with a deep passion for AI/ML & Data Science.
 
 ### Personal Information
 - **Birthday:** 30 December 2003
