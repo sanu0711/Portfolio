@@ -82,10 +82,10 @@ window.onscroll = function() {
     // make navbar fixed & change logo color
     if (window.pageYOffset > headerSection.offsetHeight - 75) {
         nav.classList.add("active");
-        logoImage.src = "../images/logoL1.png";
+        logoImage.src = " images/logoL1.png";
     } else {
         nav.classList.remove("active");
-        logoImage.src = "../images/logoL1.png";
+        logoImage.src = " images/logoL1.png";
     }
 
     // header welcome fade out and in
