@@ -572,7 +572,7 @@ header .text .arrow .left:after, header .text .arrow .right:after, header .text 
 header {
     height: calc(100vh - 22px);
     background-size: cover;
-    background-image: url("../Images/bg.jpg");
+    background-image: url(" Images/bg.jpg");
     padding: 20px 70px;
 }
 header nav {
@@ -810,7 +810,7 @@ header .arrow-down {
 
 /*Start fixed-image*/
 .fixed-image {
-    background: url("../Images/bg3.jpeg") fixed center;
+    background: url(" Images/bg3.jpeg") fixed center;
     background-size: cover;
     height: 400px;
 }
