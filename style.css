@@ -572,7 +572,7 @@ header .text .arrow .left:after, header .text .arrow .right:after, header .text 
 header {
     height: calc(100vh - 22px);
     background-size: cover;
-    background-image: url(" Images/bg.jpg");
+    background-image: url("./Images/bg.jpg");
     padding: 20px 70px;
 }
 header nav {
@@ -810,16 +810,15 @@ header .arrow-down {
 
 /*Start fixed-image*/
 .fixed-image {
-    background: url(" Images/bg3.jpeg") fixed center;
+    background: url("./Images/bg3.jpeg") fixed center;
     background-size: cover;
     height: 400px;
 }
 /*End fixed-image*/
 .skills{
     
-    padding: 60px 0;
-    font-size: 31px;
     text-align: left;
+    width: 100%;
 
 }
 /*Start Footer*/
@@ -985,6 +984,7 @@ footer .newsletter i {
     .menu .text {
         padding: 0 0 0 32px;
     }
+    
 }
 
 @media (max-width: 992px) {
@@ -1021,6 +1021,7 @@ footer .newsletter i {
         display: block;
         padding: 30px 20px 60px;
     }
+    
     .contact {
         display: block;
         padding: 78px 20px;
@@ -1061,6 +1062,7 @@ footer .newsletter i {
         text-align: left;
         padding: 14px 0;
     }
+    
     footer .contact-container {
         display: block;
     }
@@ -1096,6 +1098,7 @@ footer .newsletter i {
     header nav .toggle.active {
         left: 36%;
     }
+
     header .navigation-bar.show {
         padding: 20px;
         width: 48%;
@@ -1106,5 +1109,6 @@ footer .newsletter i {
     .menu {
         padding: 60px 0 60px 20px;
     }
+    
 }
 /*End Home Page Responsive*/
